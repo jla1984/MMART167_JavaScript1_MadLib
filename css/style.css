@@ -1,0 +1,16 @@
+img {
+    width: 500px;
+    height: auto;
+}
+
+.container {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 30px;
+}
+
+body {
+    background-color: #103E4D;
+    color: white;
+}
